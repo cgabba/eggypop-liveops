@@ -34,6 +34,20 @@
         "pt": "Rock"
 		}
 	}
+	    {
+      "id": "skin_italia",
+      "price": 51,
+      "is_default": false,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/skins/skin_italia1.png",
+	  "name": {
+        "en": "Italia",
+        "it": "Italia",
+        "es": "Italia",
+        "fr": "Italia",
+        "de": "Italia",
+        "pt": "Italia"
+		}
+	}  
   ],
   "animals": [
     {
@@ -54,4 +68,5 @@
   "seasons": [
     ]
 }
+
 
