@@ -33,7 +33,8 @@
         "fr": "Rock",
         "de": "Rock",
         "pt": "Rock"
-    }
+		}
+	}
   ],
   "animals": [
     {
@@ -48,9 +49,9 @@
         "fr": "Scorpion",
         "de": "Skorpion",
         "pt": "Escorpião"
-    }
+		}
+	}
   ],
   "seasons": [
     ]
 }
-
