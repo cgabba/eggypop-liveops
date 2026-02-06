@@ -1,5 +1,4 @@
 {
-{
   "catalog_version": 1,
   "message_of_the_day": {
     "enabled": true,
@@ -55,3 +54,4 @@
   "seasons": [
     ]
 }
+
