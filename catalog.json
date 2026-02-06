@@ -63,11 +63,26 @@
         "de": "Skorpion",
         "pt": "Escorpião"
 		}
+	},
+	{
+      "id": "animal_pangolino",
+      "price": 100,
+      "is_default": false,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/pangolino.png",
+	  "name": {
+        "en": "Pangolin",
+        "it": "Pangolino",
+        "es": "Pangolín",
+        "fr": "Pangolin",
+        "de": "Pangolin",
+        "pt": "Pangolim"
+		}
 	}
   ],
   "seasons": [
     ]
 }
+
 
 
 
