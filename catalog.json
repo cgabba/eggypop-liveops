@@ -4,7 +4,7 @@
     "enabled": true,
     "title": {
       "en": "Another two",
-      "it": "Altra novità!",
+      "it": "Altra novità! animali",
       "es": "¡Nuevas Llegadas!",
       "fr": "Nouvelles Arrivées",
       "de": "Neue Ankünfte",
@@ -82,6 +82,7 @@
   "seasons": [
     ]
 }
+
 
 
 
