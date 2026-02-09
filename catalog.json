@@ -3,7 +3,7 @@
   "message_of_the_day": {
     "enabled": true,
     "title": {
-      "en": "Another ONE",
+      "en": "Another two",
       "it": "Altra novità!",
       "es": "¡Nuevas Llegadas!",
       "fr": "Nouvelles Arrivées",
@@ -82,6 +82,7 @@
   "seasons": [
     ]
 }
+
 
 
 
