@@ -49,21 +49,6 @@
         "de": "Felsen",
         "pt": "Pedra"
       }
-    },
-    {
-      "id": "skin_calcio",
-      "price": 100,
-      "is_default": false,
-      "is_new": true,
-      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/skins/skin_calcio1.png",
-      "name": {
-        "it": "Calcio",
-        "en": "Soccer",
-        "es": "Fútbol",
-        "fr": "Football",
-        "de": "Fußball",
-        "pt": "Futebol"
-      }
     }
   ],
   "animals": [
