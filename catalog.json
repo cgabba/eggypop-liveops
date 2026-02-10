@@ -22,7 +22,7 @@
   "skins": [
     {
       "id": "skin_italia",
-      "price": 100,
+      "price": 61,
       "is_default": false,
       "is_new": true,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/skins/skin_italia1.png",
