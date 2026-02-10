@@ -3,86 +3,130 @@
   "message_of_the_day": {
     "enabled": true,
     "title": {
-      "en": "Another two",
-      "it": "Altra novità! animali",
-      "es": "¡Nuevas Llegadas!",
-      "fr": "Nouvelles Arrivées",
-      "de": "Neue Ankünfte",
-      "pt": "Novas Chegadas"
+      "it": "Automatizzato il JSON",
+      "en": "Automated JSON",
+      "es": "JSON automatizado",
+      "fr": "JSON automatisé",
+      "de": "Automatisiertes JSON",
+      "pt": "JSON automatizado"
     },
-	"text": {
-      "en": "Discover the Rock Egg!",
-      "it": "Lo scorpione e il pangolino sono arrivati! Scopri l'uovo roccia.",
-      "es": "¡Descubre el Huevo Roca!",
-      "fr": "Découvrez l'Oeuf Rocher!",
-      "de": "Entdecke das Fels-Ei!",
-      "pt": "Descubra o Ovo de Pedra!"
+    "text": {
+      "it": "E qualche animale nuovo",
+      "en": "And some new animals",
+      "es": "Y algunos animales nuevos",
+      "fr": "Et quelques nouveaux animaux",
+      "de": "Und einige neue Tiere",
+      "pt": "E alguns animais novos"
     }
   },
   "skins": [
     {
-      "id": "skin_rock",
-      "price": 50,
-      "is_default": false,
-      "is_new": true,
-      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/skins/skin_rock1.png",
-	  "name": {
-        "en": "Rock",
-        "it": "Rock",
-        "es": "Rock",
-        "fr": "Rock",
-        "de": "Rock",
-        "pt": "Rock"
-		}
-	},
-	{
       "id": "skin_italia",
-      "price": 61,
+      "price": 100,
       "is_default": false,
       "is_new": true,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/skins/skin_italia1.png",
-	  "name": {
-        "en": "Italia",
+      "name": {
         "it": "Italia",
+        "en": "Italia",
         "es": "Italia",
         "fr": "Italia",
         "de": "Italia",
         "pt": "Italia"
-		}
-	}  
+      }
+    },
+    {
+      "id": "skin_rock",
+      "price": 100,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/skins/skin_rock1.png",
+      "name": {
+        "it": "Rock",
+        "en": "Rock",
+        "es": "Roca",
+        "fr": "Rocher",
+        "de": "Felsen",
+        "pt": "Pedra"
+      }
+    },
+    {
+      "id": "skin_calcio",
+      "price": 100,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/skins/skin_calcio1.png",
+      "name": {
+        "it": "Calcio",
+        "en": "Soccer",
+        "es": "Fútbol",
+        "fr": "Football",
+        "de": "Fußball",
+        "pt": "Futebol"
+      }
+    }
   ],
   "animals": [
+    {
+      "id": "animal_pangolino",
+      "price": 100,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/pangolino.png",
+      "name": {
+        "it": "Pangolino",
+        "en": "Pangolin",
+        "es": "Pangolín",
+        "fr": "Pangolin",
+        "de": "Schuppentier",
+        "pt": "Pangolim"
+      }
+    },
+    {
+      "id": "animal_pulcino",
+      "price": 100,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/pulcino.png",
+      "name": {
+        "it": "Pulcino",
+        "en": "Flea",
+        "es": "Pulga",
+        "fr": "Puce",
+        "de": "Floh",
+        "pt": "Pulga"
+      }
+    },
     {
       "id": "animal_scorpione",
       "price": 100,
       "is_default": false,
       "is_new": true,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/scorpione.png",
-	  "name": {
-        "en": "Scorpion",
+      "name": {
         "it": "Scorpione",
+        "en": "Scorpio",
         "es": "Escorpión",
         "fr": "Scorpion",
         "de": "Skorpion",
         "pt": "Escorpião"
-		}
-	},
-	{
-      "id": "animal_pangolino",
+      }
+    },
+    {
+      "id": "animal_talpa",
       "price": 100,
       "is_default": false,
-      "is_new": false,
-      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/pangolino.png",
-	  "name": {
-        "en": "Pangolin",
-        "it": "Pangolino",
-        "es": "Pangolín",
-        "fr": "Pangolin",
-        "de": "Pangolin",
-        "pt": "Pangolim"
-		}
-	}
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/talpa.png",
+      "name": {
+        "it": "Talpa",
+        "en": "Mole",
+        "es": "Lunar",
+        "fr": "Taupe",
+        "de": "Mol",
+        "pt": "Verruga"
+      }
+    }
   ],
-  "seasons": [
-    ]
+  "seasons": []
 }
