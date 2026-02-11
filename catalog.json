@@ -3,7 +3,7 @@
   "message_of_the_day": {
     "enabled": true,
     "title": {
-      "it": "E' arrivato San Valentino!!",
+      "it": "E' arrivato San Valentino!",
       "en": "Valentine's Day has arrived!",
       "es": "¡Ha llegado el día de San Valentín!",
       "fr": "La Saint-Valentin est arrivée !",
@@ -85,7 +85,7 @@
     {
       "id": "animal_pulcino",
       "price": 100,
-      "is_default": false,
+      "is_default": true,
       "is_new": true,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/pulcino.png",
       "name": {
