@@ -3,20 +3,20 @@
   "message_of_the_day": {
     "enabled": true,
     "title": {
-      "it": "Automatizzato il JSON",
-      "en": "Automated JSON",
-      "es": "JSON automatizado",
-      "fr": "JSON automatisé",
-      "de": "Automatisiertes JSON",
-      "pt": "JSON automatizado"
+      "it": "pippo",
+      "en": "Goofy",
+      "es": "Mentecato",
+      "fr": "Maladroit",
+      "de": "Albern",
+      "pt": "Pateta"
     },
     "text": {
-      "it": "E qualche animale nuovo",
-      "en": "And some new animals",
-      "es": "Y algunos animales nuevos",
-      "fr": "Et quelques nouveaux animaux",
-      "de": "Und einige neue Tiere",
-      "pt": "E alguns animais novos"
+      "it": "plut",
+      "en": "plut",
+      "es": "plut",
+      "fr": "plut",
+      "de": "plut",
+      "pt": "mais"
     }
   },
   "skins": [
@@ -44,10 +44,25 @@
       "name": {
         "it": "Rock",
         "en": "Rock",
-        "es": "Roca",
-        "fr": "Rocher",
-        "de": "Felsen",
-        "pt": "Pedra"
+        "es": "Rock",
+        "fr": "Rock",
+        "de": "Rock",
+        "pt": "Rock"
+      }
+    },
+    {
+      "id": "skin_calcio",
+      "price": 100,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/skins/skin_calcio1.png",
+      "name": {
+        "it": "Calcio",
+        "en": "Soccer",
+        "es": "Fútbol",
+        "fr": "Football",
+        "de": "Fußball",
+        "pt": "Futebol"
       }
     }
   ],
