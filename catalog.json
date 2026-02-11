@@ -3,20 +3,20 @@
   "message_of_the_day": {
     "enabled": true,
     "title": {
-      "it": "pippo",
-      "en": "Goofy",
-      "es": "Mentecato",
-      "fr": "Maladroit",
-      "de": "Albern",
-      "pt": "Pateta"
+      "it": "E' arrivato San Valentino!",
+      "en": "Valentine's Day has arrived!",
+      "es": "¡Ha llegado el día de San Valentín!",
+      "fr": "La Saint-Valentin est arrivée !",
+      "de": "Der Valentinstag ist da!",
+      "pt": "O Dia dos Namorados chegou!"
     },
     "text": {
-      "it": "plut",
-      "en": "plut",
-      "es": "plut",
-      "fr": "plut",
-      "de": "plut",
-      "pt": "mais"
+      "it": "Fate schiudere un po' d'amore",
+      "en": "Hatch some love",
+      "es": "Incubar algo de amor",
+      "fr": "Faites naître un peu d'amour",
+      "de": "Lass die Liebe reifen",
+      "pt": "Dê à luz um pouco de amor."
     }
   },
   "skins": [
@@ -48,6 +48,21 @@
         "fr": "Rock",
         "de": "Rock",
         "pt": "Rock"
+      }
+    },
+    {
+      "id": "skin_sanvalentino",
+      "price": 100,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/skins/skin_sanvalentino1.png",
+      "name": {
+        "it": "San Valentino",
+        "en": "Saint Valentine",
+        "es": "San Valentín",
+        "fr": "Saint-Valentin",
+        "de": "Valentinstag",
+        "pt": "São Valentim"
       }
     },
     {
