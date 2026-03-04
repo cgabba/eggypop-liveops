@@ -3,20 +3,20 @@
   "message_of_the_day": {
     "enabled": true,
     "title": {
-      "it": "E' arrivato San Valentino!",
-      "en": "Valentine's Day has arrived!",
-      "es": "¡Ha llegado el día de San Valentín!",
-      "fr": "La Saint-Valentin est arrivée !",
-      "de": "Der Valentinstag ist da!",
-      "pt": "O Dia dos Namorados chegou!"
+      "it": "Grandi novità",
+      "en": "Big news",
+      "es": "Grandes noticias",
+      "fr": "Grande nouvelle",
+      "de": "Große Neuigkeiten",
+      "pt": "Grandes notícias"
     },
     "text": {
-      "it": "Fate schiudere un po' d'amore",
-      "en": "Hatch some love",
-      "es": "Incubar algo de amor",
-      "fr": "Faites naître un peu d'amour",
-      "de": "Lass die Liebe reifen",
-      "pt": "Dê à luz um pouco de amor."
+      "it": "* skin e animali online\n* my skin (fotografa il tuo uovo)",
+      "en": "* skins and animals online\n* ​​my skin (photograph your egg)",
+      "es": "* Pieles y animales online\n* ​​Mi piel (toma una foto de tu huevo)",
+      "fr": "* Peaux et animaux en ligne\n\n* Ma peau (photographiez votre œuf)",
+      "de": "* Skins und Tiere online\n\n* Mein Skin (Fotografiere dein Ei)",
+      "pt": "* peles e animais online\n* ​​minha pele (fotografe seu ovo)"
     }
   },
   "skins": [
