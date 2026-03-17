@@ -3,10 +3,10 @@
   "message_of_the_day": {
     "enabled": true,
     "title": {
-      "it": "La primavera si avvicina!",
-      "en": "Spring is approaching!",
+      "it": "La primavera sta arrivando!",
+      "en": "Spring is coming!",
       "es": "¡Se acerca la primavera!",
-      "fr": "Le printemps approche !",
+      "fr": "Le printemps arrive !",
       "de": "Der Frühling naht!",
       "pt": "A primavera está chegando!"
     },
