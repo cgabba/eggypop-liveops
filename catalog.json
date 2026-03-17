@@ -3,20 +3,20 @@
   "message_of_the_day": {
     "enabled": true,
     "title": {
-      "it": "Grandi novità",
-      "en": "Big news",
-      "es": "Grandes noticias",
-      "fr": "Grande nouvelle",
-      "de": "Große Neuigkeiten",
-      "pt": "Grandes notícias"
+      "it": "La primavera si avvicina!",
+      "en": "Spring is approaching!",
+      "es": "¡Se acerca la primavera!",
+      "fr": "Le printemps approche !",
+      "de": "Der Frühling naht!",
+      "pt": "A primavera está chegando!"
     },
     "text": {
-      "it": "* skin e animali online\n* my skin (fotografa il tuo uovo)",
-      "en": "* skins and animals online\n* ​​my skin (photograph your egg)",
-      "es": "* Pieles y animales online\n* ​​Mi piel (toma una foto de tu huevo)",
-      "fr": "* Peaux et animaux en ligne\n\n* Ma peau (photographiez votre œuf)",
-      "de": "* Skins und Tiere online\n\n* Mein Skin (Fotografiere dein Ei)",
-      "pt": "* peles e animais online\n* ​​minha pele (fotografe seu ovo)"
+      "it": "Qualche nuovo animaletto salta fuori dall'ovetto!",
+      "en": "Some new little animal is popping out of the egg!",
+      "es": "¡Un nuevo animalito está saliendo del huevo!",
+      "fr": "Un petit animal sort de l'œuf !",
+      "de": "Ein kleines Tierchen schlüpft aus dem Ei!",
+      "pt": "Um novo animaizinho está saindo do ovo!"
     }
   },
   "skins": [
@@ -71,7 +71,7 @@
       "id": "animal_pangolino",
       "price": 100,
       "is_default": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/pangolino.png",
       "name": {
         "it": "Pangolino",
@@ -86,7 +86,7 @@
       "id": "animal_pulcino",
       "price": 100,
       "is_default": true,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/pulcino.png",
       "name": {
         "it": "Pulcino",
@@ -101,7 +101,7 @@
       "id": "animal_scorpione",
       "price": 100,
       "is_default": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/scorpione.png",
       "name": {
         "it": "Scorpione",
@@ -116,7 +116,7 @@
       "id": "animal_talpa",
       "price": 100,
       "is_default": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/talpa.png",
       "name": {
         "it": "Talpa",
@@ -125,6 +125,66 @@
         "fr": "Taupe",
         "de": "Mol",
         "pt": "Verruga"
+      }
+    },
+    {
+      "id": "animal_cammello",
+      "price": 100,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/cammello.png",
+      "name": {
+        "it": "Cammello",
+        "en": "Camel",
+        "es": "Camello",
+        "fr": "Chameau",
+        "de": "Kamel",
+        "pt": "Camelo"
+      }
+    },
+    {
+      "id": "animal_pavone",
+      "price": 100,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/pavone.png",
+      "name": {
+        "it": "Pavone",
+        "en": "Peacock",
+        "es": "Pavo Real",
+        "fr": "Paon",
+        "de": "Pfau",
+        "pt": "Pavão"
+      }
+    },
+    {
+      "id": "animal_lombrico",
+      "price": 100,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/lombrico.png",
+      "name": {
+        "it": "Lombrico",
+        "en": "Earthworm",
+        "es": "Lombriz",
+        "fr": "Ver De Terre",
+        "de": "Regenwurm",
+        "pt": "Minhoca"
+      }
+    },
+    {
+      "id": "animal_puzzola",
+      "price": 100,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/puzzola.png",
+      "name": {
+        "it": "Puzzola",
+        "en": "Skunk",
+        "es": "Mofeta",
+        "fr": "Mouffette",
+        "de": "Skunk",
+        "pt": "Jaritataca"
       }
     }
   ],
