@@ -11,12 +11,12 @@
       "pt": "A primavera está chegando!"
     },
     "text": {
-      "it": "Qualche nuovo animaletto salta fuori dall'ovetto!",
-      "en": "Some new little animal is popping out of the egg!",
-      "es": "¡Un nuevo animalito está saliendo del huevo!",
-      "fr": "Un petit animal sort de l'œuf !",
-      "de": "Ein kleines Tierchen schlüpft aus dem Ei!",
-      "pt": "Um novo animaizinho está saindo do ovo!"
+      "it": "Aria aperta, sport e qualche animaletto nuovo!\nDivertitevi!",
+      "en": "Fresh air, sports, and some new pets!\nHave fun!",
+      "es": "¡Aire fresco, deportes y nuevas mascotas!\n\n¡Diviértete!",
+      "fr": "De l'air frais, du sport et de nouveaux animaux de compagnie !\n\nAmusez-vous bien !",
+      "de": "Frische Luft, Sport und neue Haustiere! Viel Spaß!",
+      "pt": "Ar puro, esportes e alguns novos animais de estimação!\nDivirta-se!"
     }
   },
   "skins": [
@@ -24,7 +24,7 @@
       "id": "skin_italia",
       "price": 61,
       "is_default": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/skins/skin_italia1.png",
       "name": {
         "it": "Italia",
@@ -39,7 +39,7 @@
       "id": "skin_sanvalentino",
       "price": 100,
       "is_default": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/skins/skin_sanvalentino1.png",
       "name": {
         "it": "San Valentino",
@@ -54,7 +54,7 @@
       "id": "skin_rock",
       "price": 100,
       "is_default": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/skins/skin_rock1.png",
       "name": {
         "it": "Rock",
@@ -63,6 +63,51 @@
         "fr": "Rock",
         "de": "Rock",
         "pt": "Rock"
+      }
+    },
+    {
+      "id": "skin_basket",
+      "price": 100,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/skins/skin_basket1.png",
+      "name": {
+        "it": "Basket",
+        "en": "Basketball",
+        "es": "Baloncesto",
+        "fr": "Basket-Ball",
+        "de": "Basketball",
+        "pt": "Basquetebol"
+      }
+    },
+    {
+      "id": "skin_bowling",
+      "price": 100,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/skins/skin_bowling1.png",
+      "name": {
+        "it": "Bowling",
+        "en": "Bowling",
+        "es": "Bolos",
+        "fr": "Bowling",
+        "de": "Bowling",
+        "pt": "Boliche"
+      }
+    },
+    {
+      "id": "skin_pallavolo",
+      "price": 100,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/skins/skin_pallavolo1.png",
+      "name": {
+        "it": "Pallavolo",
+        "en": "Volleyball",
+        "es": "Voleibol",
+        "fr": "Volley-Ball",
+        "de": "Volleyball",
+        "pt": "Voleibol"
       }
     }
   ],
