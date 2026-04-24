@@ -3,20 +3,20 @@
   "message_of_the_day": {
     "enabled": true,
     "title": {
-      "it": "La primavera sta arrivando!",
-      "en": "Spring is coming!",
-      "es": "¡Se acerca la primavera!",
-      "fr": "Le printemps arrive !",
-      "de": "Der Frühling naht!",
-      "pt": "A primavera está chegando!"
+      "it": "Maggio è in arrivo",
+      "en": "May is coming",
+      "es": "Se acerca mayo",
+      "fr": "Le mois de mai arrive",
+      "de": "Der Mai naht",
+      "pt": "Maio está chegando"
     },
     "text": {
-      "it": "Aria aperta, sport e qualche animaletto nuovo!\nDivertitevi!",
-      "en": "Fresh air, sports, and some new pets!\nHave fun!",
-      "es": "¡Aire fresco, deportes y nuevas mascotas!\n\n¡Diviértete!",
-      "fr": "De l'air frais, du sport et de nouveaux animaux de compagnie !\n\nAmusez-vous bien !",
-      "de": "Frische Luft, Sport und neue Haustiere! Viel Spaß!",
-      "pt": "Ar puro, esportes e alguns novos animais de estimação!\nDivirta-se!"
+      "it": "E la nostra arca ha portato qualche nuovo animaletto!!",
+      "en": "And our ark brought some new critters!!",
+      "es": "¡Y nuestra arca trajo algunas criaturas nuevas!",
+      "fr": "Et notre arche a ramené de nouvelles créatures !!",
+      "de": "Und unsere Arche brachte einige neue Tierchen mit sich!!",
+      "pt": "E nossa arca trouxe algumas novas criaturas!!"
     }
   },
   "skins": [
@@ -176,7 +176,7 @@
       "id": "animal_cammello",
       "price": 100,
       "is_default": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/cammello.png",
       "name": {
         "it": "Cammello",
@@ -191,7 +191,7 @@
       "id": "animal_pavone",
       "price": 100,
       "is_default": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/pavone.png",
       "name": {
         "it": "Pavone",
@@ -206,7 +206,7 @@
       "id": "animal_lombrico",
       "price": 100,
       "is_default": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/lombrico.png",
       "name": {
         "it": "Lombrico",
@@ -221,7 +221,7 @@
       "id": "animal_puzzola",
       "price": 100,
       "is_default": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/puzzola.png",
       "name": {
         "it": "Puzzola",
@@ -230,6 +230,126 @@
         "fr": "Mouffette",
         "de": "Skunk",
         "pt": "Jaritataca"
+      }
+    },
+    {
+      "id": "animal_rondine",
+      "price": 100,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/rondine.png",
+      "name": {
+        "it": "Rondine",
+        "en": "Swallow",
+        "es": "Tragar",
+        "fr": "Avaler",
+        "de": "Schlucken",
+        "pt": "Engolir"
+      }
+    },
+    {
+      "id": "animal_gnu",
+      "price": 100,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/gnu.png",
+      "name": {
+        "it": "Gnu",
+        "en": "Wildebeest",
+        "es": "Ñu",
+        "fr": "Gnou",
+        "de": "Gnu",
+        "pt": "Gnu"
+      }
+    },
+    {
+      "id": "animal_muflone",
+      "price": 100,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/muflone.png",
+      "name": {
+        "it": "Muflone",
+        "en": "Mouflon",
+        "es": "Muflón",
+        "fr": "Mouflon",
+        "de": "Mufflon",
+        "pt": "Muflão"
+      }
+    },
+    {
+      "id": "animal_bufalo",
+      "price": 100,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/bufalo.png",
+      "name": {
+        "it": "Bufalo",
+        "en": "Buffalo",
+        "es": "Búfalo",
+        "fr": "Buffle",
+        "de": "Büffel",
+        "pt": "Búfalo"
+      }
+    },
+    {
+      "id": "animal_orso bianco",
+      "price": 100,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/orsobianco.png",
+      "name": {
+        "it": "Orso Bianco",
+        "en": "Polar Bear",
+        "es": "Oso Polar",
+        "fr": "Ours Blanc",
+        "de": "Eisbär",
+        "pt": "Urso Polar"
+      }
+    },
+    {
+      "id": "animal_foca",
+      "price": 100,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/foca.png",
+      "name": {
+        "it": "Foca",
+        "en": "Seal",
+        "es": "Sello",
+        "fr": "Joint",
+        "de": "Siegel",
+        "pt": "Selo"
+      }
+    },
+    {
+      "id": "animal_delfino",
+      "price": 100,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/delfino.png",
+      "name": {
+        "it": "Delfino",
+        "en": "Dolphin",
+        "es": "Delfín",
+        "fr": "Dauphin",
+        "de": "Delphin",
+        "pt": "Golfinho"
+      }
+    },
+    {
+      "id": "animal_orca",
+      "price": 100,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/orca.png",
+      "name": {
+        "it": "Orca",
+        "en": "Orca",
+        "es": "Orca",
+        "fr": "Orque",
+        "de": "Orca",
+        "pt": "Orca"
       }
     }
   ],
