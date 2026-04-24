@@ -3,20 +3,20 @@
   "message_of_the_day": {
     "enabled": true,
     "title": {
-      "it": "Maggio è in arrivo",
-      "en": "May is coming",
-      "es": "Se acerca mayo",
-      "fr": "Le mois de mai arrive",
-      "de": "Der Mai naht",
-      "pt": "Maio está chegando"
+      "it": "Maggio è in arrivo!",
+      "en": "May is coming!",
+      "es": "¡Mayo se acerca!",
+      "fr": "Le mois de mai arrive !",
+      "de": "Der Mai naht!",
+      "pt": "Maio está chegando!"
     },
     "text": {
-      "it": "E la nostra arca ha portato qualche nuovo animaletto!!",
-      "en": "And our ark brought some new critters!!",
-      "es": "¡Y nuestra arca trajo algunas criaturas nuevas!",
-      "fr": "Et notre arche a ramené de nouvelles créatures !!",
-      "de": "Und unsere Arche brachte einige neue Tierchen mit sich!!",
-      "pt": "E nossa arca trouxe algumas novas criaturas!!"
+      "it": "E la nostra arca ci porta qualche nuovo animaletto!!",
+      "en": "And our ark brings us some new little animals!!",
+      "es": "¡Y nuestra arca nos trae algunos animalitos nuevos!",
+      "fr": "Et notre arche nous apporte de nouveaux petits animaux !!",
+      "de": "Und unsere Arche bringt uns ein paar neue kleine Tiere!!",
+      "pt": "E nossa arca nos traz alguns novos animaizinhos!!"
     }
   },
   "skins": [
@@ -320,21 +320,6 @@
         "fr": "Joint",
         "de": "Siegel",
         "pt": "Selo"
-      }
-    },
-    {
-      "id": "animal_delfino",
-      "price": 100,
-      "is_default": false,
-      "is_new": true,
-      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/delfino.png",
-      "name": {
-        "it": "Delfino",
-        "en": "Dolphin",
-        "es": "Delfín",
-        "fr": "Dauphin",
-        "de": "Delphin",
-        "pt": "Golfinho"
       }
     },
     {
