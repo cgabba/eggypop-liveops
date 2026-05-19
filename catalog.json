@@ -3,20 +3,20 @@
   "message_of_the_day": {
     "enabled": true,
     "title": {
-      "it": "Maggio è in arrivo!",
-      "en": "May is coming!",
-      "es": "¡Mayo se acerca!",
-      "fr": "Le mois de mai arrive !",
-      "de": "Der Mai naht!",
-      "pt": "Maio está chegando!"
+      "it": "EVVAI!!!! Un omaggio a tutti",
+      "en": "YAY!!!! A tribute to everyone",
+      "es": "¡¡¡SÍ!!! Un homenaje a todos",
+      "fr": "YAY !!!! Un hommage à tous",
+      "de": "Juhu!!!! Eine Hommage an alle",
+      "pt": "EBA!!!! Uma homenagem a todos"
     },
     "text": {
-      "it": "E la nostra arca ci porta qualche nuovo animaletto!!",
-      "en": "And our ark brings us some new little animals!!",
-      "es": "¡Y nuestra arca nos trae algunos animalitos nuevos!",
-      "fr": "Et notre arche nous apporte de nouveaux petits animaux !!",
-      "de": "Und unsere Arche bringt uns ein paar neue kleine Tiere!!",
-      "pt": "E nossa arca nos traz alguns novos animaizinhos!!"
+      "it": "Essì.... finalmente!! Chissà cos'è successo",
+      "en": "Yes... finally!! I wonder what happened.",
+      "es": "Sí... ¡¡por fin!! Me pregunto qué habrá pasado.",
+      "fr": "Oui... enfin !! Je me demande ce qui s'est passé.",
+      "de": "Ja... endlich!! Ich frage mich, was passiert ist.",
+      "pt": "Sim... finalmente!! Estou curiosa para saber o que aconteceu."
     }
   },
   "skins": [
@@ -69,7 +69,7 @@
       "id": "skin_basket",
       "price": 100,
       "is_default": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/skins/skin_basket1.png",
       "name": {
         "it": "Basket",
@@ -84,7 +84,7 @@
       "id": "skin_bowling",
       "price": 100,
       "is_default": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/skins/skin_bowling1.png",
       "name": {
         "it": "Bowling",
@@ -99,7 +99,7 @@
       "id": "skin_pallavolo",
       "price": 100,
       "is_default": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/skins/skin_pallavolo1.png",
       "name": {
         "it": "Pallavolo",
@@ -108,6 +108,21 @@
         "fr": "Volley-Ball",
         "de": "Volleyball",
         "pt": "Voleibol"
+      }
+    },
+    {
+      "id": "skin_prezioso",
+      "price": 0,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/skins/skin_prezioso1.png",
+      "name": {
+        "it": "Prezioso",
+        "en": "Precious",
+        "es": "Precioso",
+        "fr": "Précieux",
+        "de": "Wertvoll",
+        "pt": "Precioso"
       }
     }
   ],
@@ -236,7 +251,7 @@
       "id": "animal_rondine",
       "price": 100,
       "is_default": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/rondine.png",
       "name": {
         "it": "Rondine",
@@ -251,7 +266,7 @@
       "id": "animal_gnu",
       "price": 100,
       "is_default": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/gnu.png",
       "name": {
         "it": "Gnu",
@@ -266,7 +281,7 @@
       "id": "animal_muflone",
       "price": 100,
       "is_default": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/muflone.png",
       "name": {
         "it": "Muflone",
@@ -281,7 +296,7 @@
       "id": "animal_bufalo",
       "price": 100,
       "is_default": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/bufalo.png",
       "name": {
         "it": "Bufalo",
@@ -296,7 +311,7 @@
       "id": "animal_orso bianco",
       "price": 100,
       "is_default": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/orsobianco.png",
       "name": {
         "it": "Orso Bianco",
@@ -311,7 +326,7 @@
       "id": "animal_foca",
       "price": 100,
       "is_default": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/foca.png",
       "name": {
         "it": "Foca",
@@ -326,7 +341,7 @@
       "id": "animal_orca",
       "price": 100,
       "is_default": false,
-      "is_new": true,
+      "is_new": false,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/orca.png",
       "name": {
         "it": "Orca",
