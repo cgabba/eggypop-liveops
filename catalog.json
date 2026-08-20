@@ -3,20 +3,20 @@
   "message_of_the_day": {
     "enabled": true,
     "title": {
-      "it": "EVVAI!!!! Un omaggio a tutti",
-      "en": "YAY!!!! A tribute to everyone",
-      "es": "¡¡¡SÍ!!! Un homenaje a todos",
-      "fr": "YAY !!!! Un hommage à tous",
-      "de": "Juhu!!!! Eine Hommage an alle",
-      "pt": "EBA!!!! Uma homenagem a todos"
+      "it": "Tutti al mare!",
+      "en": "Everyone to the beach!",
+      "es": "¡Todos a la playa!",
+      "fr": "Tout le monde à la plage !",
+      "de": "Alle ab an den Strand!",
+      "pt": "Todos para a praia!"
     },
     "text": {
-      "it": "Essì.... finalmente!! Chissà cos'è successo?!?!? :)",
-      "en": "Yes... finally!! I wonder what happened?!?!? :)",
-      "es": "¡Sí... por fin! ¡Me pregunto qué habrá pasado! :)",
-      "fr": "Oui… enfin !! Je me demande ce qui s’est passé ?!? :)",
-      "de": "Ja... endlich!! Ich frage mich, was passiert ist?!?!? :)",
-      "pt": "Sim... finalmente!! O que será que aconteceu?!?!? :)"
+      "it": "Aggiornamento dell'app con un nuovo fondale e in regalo la skin \"spiaggia\"! Buone vacanze!\"",
+      "en": "The app has been updated with a new backdrop and a free \"beach\" skin! Happy holidays!",
+      "es": "¡La aplicación se ha actualizado con un nuevo fondo y un tema playero gratuito! ¡Felices fiestas!",
+      "fr": "L'application a été mise à jour avec un nouveau fond d'écran et un thème « plage » gratuit ! Joyeuses fêtes !",
+      "de": "Die App wurde mit einem neuen Hintergrund und einem kostenlosen „Strand“-Design aktualisiert! Frohe Feiertage!",
+      "pt": "O aplicativo foi atualizado com um novo plano de fundo e um tema \"praia\" gratuito! Boas festas!"
     }
   },
   "skins": [
@@ -123,6 +123,21 @@
         "fr": "Précieux",
         "de": "Wertvoll",
         "pt": "Precioso"
+      }
+    },
+    {
+      "id": "skin_spiaggia",
+      "price": 0,
+      "is_default": false,
+      "is_new": true,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/skins/skin_spiaggia1.png",
+      "name": {
+        "it": "Spiaggia",
+        "en": "Beach",
+        "es": "Playa",
+        "fr": "Plage",
+        "de": "Strand",
+        "pt": "Praia"
       }
     }
   ],
