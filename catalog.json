@@ -11,12 +11,12 @@
       "pt": "É Halloween!!!"
     },
     "text": {
-      "it": "Creature spaventose usciranno dalle uova!\nQuesto è HALLOWEEN!!",
-      "en": "Scary creatures will hatch from the eggs!\nThis is HALLOWEEN!!",
+      "it": "Creature spaventose usciranno dalle uova!\nQuesto è HALLOWEEN!!!",
+      "en": "Scary creatures will hatch from the eggs!\nThis is HALLOWEEN!!!",
       "es": "¡Criaturas terroríficas saldrán de los huevos!\n\n¡Esto es HALLOWEEN!",
-      "fr": "Des créatures effrayantes vont éclore des œufs !\n\nC'est Halloween !!",
-      "de": "Gruselige Kreaturen schlüpfen aus den Eiern!\nDas ist HALLOWEEN!!",
-      "pt": "#VALUE!"
+      "fr": "Des créatures effrayantes vont éclore des œufs !\n\nC'est HALLOWEEN !!!",
+      "de": "Gruselige Kreaturen schlüpfen aus den Eiern!\nDas ist HALLOWEEN!!!",
+      "pt": "Criaturas assustadoras sairão dos ovos!\nÉ o HALLOWEEN!!!"
     }
   },
   "skins": [
@@ -402,7 +402,7 @@
       "price": 100,
       "is_default": false,
       "is_new": true,
-      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/strega.png",
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/animal_strega.png",
       "name": {
         "it": "Strega",
         "en": "Witch",
@@ -417,7 +417,7 @@
       "price": 100,
       "is_default": false,
       "is_new": true,
-      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/uomolupo.png",
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/animal_uomolupo.png",
       "name": {
         "it": "Uomo Lupo",
         "en": "Wolf Man",
@@ -432,7 +432,7 @@
       "price": 100,
       "is_default": false,
       "is_new": true,
-      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/vampiro.png",
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/animal_vampiro.png",
       "name": {
         "it": "Vampiro",
         "en": "Vampire",
@@ -447,7 +447,7 @@
       "price": 100,
       "is_default": false,
       "is_new": true,
-      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/zombi.png",
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/animal_zombi.png",
       "name": {
         "it": "Zombi",
         "en": "Zombies",
