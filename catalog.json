@@ -3,20 +3,20 @@
   "message_of_the_day": {
     "enabled": true,
     "title": {
-      "it": "Tutti al mare!",
-      "en": "Everyone to the beach!",
-      "es": "¡Todos a la playa!",
-      "fr": "Tout le monde à la plage !",
-      "de": "Alle ab an den Strand!",
-      "pt": "Todos para a praia!"
+      "it": "E' Halloween!!!",
+      "en": "It's Halloween!!!",
+      "es": "¡Es Halloween!",
+      "fr": "C'est Halloween !!!",
+      "de": "Es ist Halloween!!!",
+      "pt": "É Halloween!!!"
     },
     "text": {
-      "it": "Aggiornamento dell'app con un nuovo fondale e in regalo la skin \"spiaggia\"! Buone vacanze!\"",
-      "en": "The app has been updated with a new backdrop and a free \"beach\" skin! Happy holidays!",
-      "es": "¡La aplicación se ha actualizado con un nuevo fondo y un tema playero gratuito! ¡Felices fiestas!",
-      "fr": "L'application a été mise à jour avec un nouveau fond d'écran et un thème « plage » gratuit ! Joyeuses fêtes !",
-      "de": "Die App wurde mit einem neuen Hintergrund und einem kostenlosen „Strand“-Design aktualisiert! Frohe Feiertage!",
-      "pt": "O aplicativo foi atualizado com um novo plano de fundo e um tema \"praia\" gratuito! Boas festas!"
+      "it": "Creature spaventose usciranno dalle uova!\nQuesto è HALLOWEEN!",
+      "en": "Scary creatures will hatch from the eggs!\nThis is HALLOWEEN!",
+      "es": "¡Criaturas terroríficas saldrán de los huevos!\n\n¡Esto es HALLOWEEN!",
+      "fr": "Des créatures effrayantes vont éclore des œufs !\n\nC'est Halloween !",
+      "de": "Gruselige Kreaturen schlüpfen aus den Eiern!\nDas ist HALLOWEEN!",
+      "pt": "Criaturas assustadoras sairão dos ovos!\nÉ o HALLOWEEN!"
     }
   },
   "skins": [
@@ -365,6 +365,96 @@
         "fr": "Orque",
         "de": "Orca",
         "pt": "Orca"
+      }
+    },
+    {
+      "id": "animal_mummia",
+      "price": 100,
+      "is_default": false,
+      "is_new": false,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/mummia.png",
+      "name": {
+        "it": "Mummia",
+        "en": "Mummy",
+        "es": "Momia",
+        "fr": "Momie",
+        "de": "Mumie",
+        "pt": "Múmia"
+      }
+    },
+    {
+      "id": "animal_scheletro",
+      "price": 100,
+      "is_default": false,
+      "is_new": false,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/scheletro.png",
+      "name": {
+        "it": "Scheletro",
+        "en": "Skeleton",
+        "es": "Esqueleto",
+        "fr": "Squelette",
+        "de": "Skeleton",
+        "pt": "Esqueleto"
+      }
+    },
+    {
+      "id": "animal_strega",
+      "price": 100,
+      "is_default": false,
+      "is_new": false,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/strega.png",
+      "name": {
+        "it": "Strega",
+        "en": "Witch",
+        "es": "Bruja",
+        "fr": "Sorcière",
+        "de": "Hexe",
+        "pt": "Bruxa"
+      }
+    },
+    {
+      "id": "animal_uomo_lupo",
+      "price": 100,
+      "is_default": false,
+      "is_new": false,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/uomolupo.png",
+      "name": {
+        "it": "Uomo Lupo",
+        "en": "Wolf Man",
+        "es": "Hombre Lobo",
+        "fr": "Homme-loup",
+        "de": "Wolfsmensch",
+        "pt": "Homem-Lobo"
+      }
+    },
+    {
+      "id": "animal_vampiro",
+      "price": 100,
+      "is_default": false,
+      "is_new": false,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/vampiro.png",
+      "name": {
+        "it": "Vampiro",
+        "en": "Vampire",
+        "es": "Vampiro",
+        "fr": "Vampire",
+        "de": "Vampir",
+        "pt": "Vampiro"
+      }
+    },
+    {
+      "id": "animal_zombi",
+      "price": 100,
+      "is_default": false,
+      "is_new": false,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/zombi.png",
+      "name": {
+        "it": "Zombi",
+        "en": "Zombies",
+        "es": "Zombis",
+        "fr": "Zombies",
+        "de": "Zombies",
+        "pt": "Zumbis"
       }
     }
   ],
