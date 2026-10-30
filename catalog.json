@@ -3,20 +3,20 @@
   "message_of_the_day": {
     "enabled": true,
     "title": {
-      "it": "E' Halloween!!",
-      "en": "It's Halloween!!",
+      "it": "E' Halloween!!!",
+      "en": "It's Halloween!!!",
       "es": "¡Es Halloween!",
-      "fr": "C'est Halloween !!",
-      "de": "Es ist Halloween!!",
-      "pt": "É Halloween!!"
+      "fr": "C'est Halloween !!!",
+      "de": "Es ist Halloween!!!",
+      "pt": "É Halloween!!!"
     },
     "text": {
-      "it": "Creature spaventose usciranno dalle uova! Ma non temete:\nQuesto è HALLOWEEN!!!!",
-      "en": "Scary creatures will hatch from the eggs! But don't worry:\nThis is HALLOWEEN!!!!",
+      "it": "\"Creature spaventose usciranno dalle uova! Ma non temete:\nQuesto è HALLOWEEN!!!!\"",
+      "en": "\"Scary creatures will hatch from the eggs! But don't worry:\nThis is HALLOWEEN!!!!\"",
       "es": "¡Criaturas terroríficas saldrán de los huevos! Pero no te preocupes: ¡Es Halloween!",
       "fr": "Des créatures effrayantes vont éclore des œufs ! Mais n'ayez crainte :\n\nC'est HALLOWEEN !!!!",
-      "de": "Gruselige Kreaturen schlüpfen aus den Eiern! Aber keine Sorge:\nEs ist HALLOWEEN!!!!",
-      "pt": "Criaturas assustadoras sairão dos ovos! Mas não se preocupe:\nÉ o HALLOWEEN!!!!"
+      "de": "„Aus den Eiern schlüpfen gruselige Kreaturen! Aber keine Sorge:\nEs ist HALLOWEEN!!!!“",
+      "pt": "\"Criaturas assustadoras sairão dos ovos! Mas não se preocupe:\nÉ o HALLOWEEN!!!!\""
     }
   },
   "skins": [
@@ -455,6 +455,21 @@
         "fr": "Zombies",
         "de": "Zombies",
         "pt": "Zumbis"
+      }
+    },
+    {
+      "id": "animal_jack-o'-lantern",
+      "price": 100,
+      "is_default": false,
+      "is_new": false,
+      "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/animal_jackolantern.png",
+      "name": {
+        "it": "Jack-o'-lantern",
+        "en": "Jack-o'-lantern",
+        "es": "Jack-o'-lantern",
+        "fr": "Jack-o'-lantern",
+        "de": "Jack-o'-lantern",
+        "pt": "Jack-o'-lantern"
       }
     }
   ],
