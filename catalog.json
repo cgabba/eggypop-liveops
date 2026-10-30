@@ -3,20 +3,20 @@
   "message_of_the_day": {
     "enabled": true,
     "title": {
-      "it": "E' Halloween!!!",
-      "en": "It's Halloween!!!",
+      "it": "E' Halloween!",
+      "en": "It's Halloween!",
       "es": "¡Es Halloween!",
-      "fr": "C'est Halloween !!!",
-      "de": "Es ist Halloween!!!",
-      "pt": "É Halloween!!!"
+      "fr": "C'est Halloween !",
+      "de": "Es ist Halloween!",
+      "pt": "É Halloween!"
     },
     "text": {
-      "it": "\"Creature spaventose usciranno dalle uova! Ma non temete:\nQuesto è HALLOWEEN!!!!\"",
-      "en": "\"Scary creatures will hatch from the eggs! But don't worry:\nThis is HALLOWEEN!!!!\"",
-      "es": "¡Criaturas terroríficas saldrán de los huevos! Pero no te preocupes: ¡Es Halloween!",
-      "fr": "Des créatures effrayantes vont éclore des œufs ! Mais n'ayez crainte :\n\nC'est HALLOWEEN !!!!",
-      "de": "„Aus den Eiern schlüpfen gruselige Kreaturen! Aber keine Sorge:\nEs ist HALLOWEEN!!!!“",
-      "pt": "\"Criaturas assustadoras sairão dos ovos! Mas não se preocupe:\nÉ o HALLOWEEN!!!!\""
+      "it": "\"Quali creature spaventose usciranno dalle uova? Ma non temete:\nQuesto è HALLOWEEN!\"",
+      "en": "\"What scary creatures will hatch from the eggs? But fear not:\nThis is HALLOWEEN!\"",
+      "es": "¿Qué criaturas terroríficas saldrán de los huevos? ¡Pero no temas: es Halloween!",
+      "fr": "Quelles créatures effrayantes vont éclore de ces œufs ? Mais n'ayez crainte :\n\nC'est HALLOWEEN !",
+      "de": "„Welche gruseligen Kreaturen werden aus den Eiern schlüpfen? Aber keine Angst:\nEs ist HALLOWEEN!“",
+      "pt": "\"Que criaturas assustadoras sairão dos ovos? Mas não se preocupem:\nIsto é o HALLOWEEN!\""
     }
   },
   "skins": [
@@ -459,9 +459,9 @@
     },
     {
       "id": "animal_jack-o'-lantern",
-      "price": 100,
+      "price": 0,
       "is_default": false,
-      "is_new": false,
+      "is_new": true,
       "image_url": "https://raw.githubusercontent.com/cgabba/eggypop-liveops/main/animals/animal_jackolantern.png",
       "name": {
         "it": "Jack-o'-lantern",
